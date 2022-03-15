@@ -30,4 +30,3 @@ Here are some other questions we can ask & look into as we explore our data:
 With this project we hope to come closer to identifying who is the strongest and weakest links among the Gang members of Scooby-Doo. Is it Fred? Velma? Shaggy? Daphne? Or even more surprisingly, Scooby? Additionally, we hope to see how Scooby Snacks may impact the performance of the Gang and identify the most formidable villains within the Scooby-Doo verse. Hopefully through our analysis, we are able to come closer to an answer based on the data and statistics!
 
 If you wish to access an interactive version of this notebook here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/varshah2000/dh140-finalproject/tree/main/FinalProject/HEAD) 
